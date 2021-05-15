@@ -3,7 +3,7 @@ $(function () {
         dots: true,
         responsive: [
             {
-              breakpoint: 768,
+              breakpoint: 1024,
               settings: {
                 arrows: false,
               },
@@ -16,7 +16,7 @@ $(function () {
         infinite: false,
         responsive: [
           {
-            breakpoint: 768,
+            breakpoint: 1024,
             settings: {
               arrows: false,
             },
