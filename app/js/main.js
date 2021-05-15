@@ -13,6 +13,7 @@ $(function () {
 
     $('.reviews__slider').slick({
         dots: true,
+        infinite: false,
         responsive: [
           {
             breakpoint: 768,
